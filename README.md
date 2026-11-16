@@ -17,3 +17,7 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 * **What is IAM?** Identity and Access Management controls who can enter my cloud account and which rooms they can open.
 * **Authentication vs. Authorization:** Authentication checks *who you are* (ID badge), while Authorization checks *what you are allowed to do* (which doors open).
 * **Principle of Least Privilege:** Always give people and programs the smallest amount of permission needed to do their job.
+## Cloud Security Lesson 3: VPCs & Firewalls (Digital Fences)
+* **What is a VPC?** A Virtual Private Cloud is my own private, fenced-in space inside the cloud where my servers live safely away from strangers.
+* **Public vs. Private Subnets:** Public subnets hold things visitors need to reach (like websites), while private subnets hide secret databases away from the open internet.
+* **Firewalls (Security Groups):** Digital bouncers that block all outside traffic by default and only open specific doors (ports) for trusted visitors.
