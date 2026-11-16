@@ -29,3 +29,9 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 * **What is Logging?** Recording every single action inside my cloud account (who logged in, what they changed, and when) like security camera footage.
 * **What is Monitoring?** Using automated watchdogs to watch those logs 24/7 and send instant alerts when suspicious activity happens.
 * **Why It Matters:** Logs help detect attacks in real time and act as detective clues to trace how an intruder got in.
+## Milestone Achieved: Cloud Security Foundations
+- [x] **Lesson 1:** Shared Responsibility Model
+- [x] **Lesson 2:** IAM & Principle of Least Privilege
+- [x] **Lesson 3:** VPCs & Firewalls
+- [x] **Lesson 4:** Encryption at Rest & in Transit
+- [x] **Lesson 5:** Logging & Monitoring
