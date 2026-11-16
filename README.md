@@ -21,3 +21,7 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 * **What is a VPC?** A Virtual Private Cloud is my own private, fenced-in space inside the cloud where my servers live safely away from strangers.
 * **Public vs. Private Subnets:** Public subnets hold things visitors need to reach (like websites), while private subnets hide secret databases away from the open internet.
 * **Firewalls (Security Groups):** Digital bouncers that block all outside traffic by default and only open specific doors (ports) for trusted visitors.
+## Cloud Security Lesson 4: Encryption (Secret Codes)
+* **What is Encryption?** Scrambling readable data (Plaintext) into unreadable secret code (Ciphertext) that can only be unlocked with a special digital key.
+* **Encryption at Rest:** Locking and scrambling files while they sit stored on cloud hard drives and databases.
+* **Encryption in Transit:** Protecting data while it travels across the internet (like seeing `https://` in a browser) so hackers cannot spy on it.
