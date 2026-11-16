@@ -25,3 +25,7 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 * **What is Encryption?** Scrambling readable data (Plaintext) into unreadable secret code (Ciphertext) that can only be unlocked with a special digital key.
 * **Encryption at Rest:** Locking and scrambling files while they sit stored on cloud hard drives and databases.
 * **Encryption in Transit:** Protecting data while it travels across the internet (like seeing `https://` in a browser) so hackers cannot spy on it.
+## Cloud Security Lesson 5: Logging & Monitoring (Security Cameras)
+* **What is Logging?** Recording every single action inside my cloud account (who logged in, what they changed, and when) like security camera footage.
+* **What is Monitoring?** Using automated watchdogs to watch those logs 24/7 and send instant alerts when suspicious activity happens.
+* **Why It Matters:** Logs help detect attacks in real time and act as detective clues to trace how an intruder got in.
