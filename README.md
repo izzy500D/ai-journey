@@ -35,3 +35,11 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 - [x] **Lesson 3:** VPCs & Firewalls
 - [x] **Lesson 4:** Encryption at Rest & in Transit
 - [x] **Lesson 5:** Logging & Monitoring
+## Cloud Security Detective Scorecard
+**Status:** Completed | **Score:** 3 / 3 (100%)
+
+| Case | Topic | Key Takeaway | Result |
+| :--- | :--- | :--- | :--- |
+| **Case 1** | **IAM** | Principle of Least Privilege | Passed |
+| **Case 2** | **Detection** | Logging & Monitoring Alerts | Passed |
+| **Case 3** | **Data Protection** | Encryption at Rest | Passed |
