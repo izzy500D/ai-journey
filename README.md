@@ -13,3 +13,7 @@ I am exploring how Artificial Intelligence works in the cloud and how to keep AI
 ## Next Goals
 - [ ] Learn how cloud servers run AI models
 - [ ] Practice spotting fake AI phishing emails
+## Cloud Security Lesson 2: IAM (Digital Security Guards)
+* **What is IAM?** Identity and Access Management controls who can enter my cloud account and which rooms they can open.
+* **Authentication vs. Authorization:** Authentication checks *who you are* (ID badge), while Authorization checks *what you are allowed to do* (which doors open).
+* **Principle of Least Privilege:** Always give people and programs the smallest amount of permission needed to do their job.
